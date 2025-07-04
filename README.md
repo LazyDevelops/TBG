@@ -6,7 +6,7 @@
   ```
 
 ## 2. 주요 기능 (Features)
-준비중
+(준비중)
 
 ## 3. 사용 환경 (Requirements)
 * **Unity 버전**: 6000.1.10f1
@@ -17,6 +17,7 @@
   * Universal Window Platform Build Support
 
 * **필요 패키지**:
+  * (없음)
 
 ## 4. 라이선스 (License)
 * 본 프로젝트는 MIT 라이선스를 따릅니다.
